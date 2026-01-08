@@ -15,7 +15,8 @@ My early research focused on **Natural Language Processing**, particularly named
 * **Bachelor’s Degree** — *Computer Science / Information Systems*
   * *Recipient of the Ada Lovelace Prize (2019)* for committed service to the student community
 * **American Semester Program** — Michigan State University, East Lansing
-  * Semester abroad - supported by a Promos scholarship 
+  * *Semester abroad* - supported by a Promos scholarship 
+
 ---
 
 ## Selected publications
